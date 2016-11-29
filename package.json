@@ -1,0 +1,16 @@
+{
+  "name": "TicTacToe",
+  "version": "1.0.0",
+  "description": "TicTacToe",
+  "repository": {
+    "url": "https://github.com/ArtyEmsee/TicTacToe.git",
+    "type": "git"
+  },
+  "author": "Robert McElligott",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {
+  }
+}
